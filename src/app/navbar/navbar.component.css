@@ -1,0 +1,22 @@
+.container{
+    background-color:red;
+    margin: 0px;
+}
+.bar{
+    display: flex;
+}
+.logo{
+   height: 90px;
+   width:  80px;
+   margin-left: 12px;
+   margin-right: 24px;
+  margin-top: 8px;
+}
+.name{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+.spanText{
+    font-size: 60px;
+}
