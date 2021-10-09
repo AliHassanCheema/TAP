@@ -7,6 +7,7 @@ import { NavbarComponent } from './navbar/navbar.component';
 import { HeaderComponent } from './header/header.component';
 import { BodyComponent } from './body/body.component';
 import { FooterComponent } from './footer/footer.component';
+import { MatCardModule } from '@angular/material/card';
 
 @NgModule({
   declarations: [
@@ -15,10 +16,12 @@ import { FooterComponent } from './footer/footer.component';
     NavbarComponent,
     HeaderComponent,
     BodyComponent,
-    FooterComponent
+    FooterComponent,
+    
   ],
   imports: [
-    BrowserModule
+    BrowserModule,
+    MatCardModule
   ],
   providers: [],
   bootstrap: [AppComponent]
