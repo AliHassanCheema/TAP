@@ -1,6 +1,6 @@
 .header{
     display: flex;
-    height: 60vh;
+    height: 80vh;
     background-image: url('/assets/images/bg2.jpg');
 }
 .sloganDiv{
@@ -17,18 +17,18 @@
 }
 .img1{
     width: 33%;
-    background-image: url('/assets/images/img1.jpg');
+    background-image: url('/assets/images/c11.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
 .img2{
     width: 33%;
-    background-image: url('/assets/images/img2.jpg');
+    background-image: url('/assets/images/sports.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
-.img{
-    background-image: url('/assets/images/bg1.jpg');
+.img3{
+    background-image: url('/assets/images/hostels.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
