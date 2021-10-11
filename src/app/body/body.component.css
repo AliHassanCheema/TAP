@@ -9,6 +9,15 @@
     text-align: center;
 }
 
+.student-img{
+    border-radius: 5rem;
+    border-bottom: 3rem;
+}
+
+mat-card-title{
+    border-bottom: 3rem;
+}
+
 /* .mat-grid-tile{
     width: 2rem;
 } */
