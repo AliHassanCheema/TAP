@@ -1,0 +1,9 @@
+.footer{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(99, 98, 98);
+    height: 30vh;
+}
+.headings{
+    margin-top: 32px;
+}
