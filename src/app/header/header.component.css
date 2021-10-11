@@ -1,34 +1,31 @@
 .header{
     display: flex;
     height: 80vh;
-    background-image: url('/assets/images/bg2.jpg');
+    /* background-image: url('/assets/images/c1.jpg'); */
 }
 .sloganDiv{
-    width:20%;
-    text-align: center;
+    width:40%;
+   text-align: center;
+   
 }
 .slogan{
-    margin-top: 100px;
-    color: bisque;
+    margin-top: 140px;
+    font-size: 48px;
+    font-weight: bolder;
+    color: black
+    /* height:100%; */
 }
 .img{
     display: flex;
-    width:88%;
+    width:60%;
 }
 .img1{
-    width: 33%;
-    background-image: url('/assets/images/c11.jpg');
+    width: 100%;
+    background-image: url('/assets/images/bg1.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
-.img2{
-    width: 33%;
-    background-image: url('/assets/images/sports.jpg');
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-.img3{
-    background-image: url('/assets/images/hostels.jpg');
-    background-repeat: no-repeat;
-    background-size: cover;
+.btnBook{
+    background-color: rgb(51, 163, 70);
+    color: white;
 }

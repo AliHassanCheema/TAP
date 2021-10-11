@@ -15,8 +15,10 @@
 .name{
     display: flex;
     flex-direction: column;
-    justify-content: space-evenly;
+    justify-content: space-around;
+    margin-top: 20px;
+    color: #649dad;
 }
 .spanText{
-    font-size: 60px;
+    font-size: 52px;
 }
